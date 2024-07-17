@@ -7,7 +7,7 @@ export default function Home() {
     <main className={styles.main}>
       Github Actions
       Github Pages
-      <Image src={"/coming.png"} alt="coming" />
+      <Image src={"/coming.png"} width={600} height={400} alt="coming" />
       Coming Soon
     </main>
   );
