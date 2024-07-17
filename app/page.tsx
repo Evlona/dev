@@ -1,4 +1,5 @@
 import Image from "next/image";
+import img from '@/public/coming.png'
 import styles from "./page.module.css";
 
 
